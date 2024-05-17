@@ -1,4 +1,5 @@
-# vue-intro
+
+# vue-intro:
 ## attribut binding:
 - you can use attribute binding to dynamically bind values to HTML attributes or element properties. Attribute binding allows you to set attributes or properties based on data or expressions in your Vue component.
 
@@ -16,3 +17,6 @@
 ## emit method:
 - is used to trigger custom events from a child component to its parent component. It allows child components to communicate with their parent components and send data or signals.
  To emit an event from a child component, you can use the $emit method provided by Vue.js.
+
+## Demo:
+![project Demo](screen-shot.png)
